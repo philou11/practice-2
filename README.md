@@ -88,7 +88,7 @@ This project is released under the
 
 ## Citation
 
-> Doe J (2024) Download PanTHERIA and WWF WildFinder databases.
+> Doe J (2024) Download PanTHERIA and WWF WildFinder databases. URL: <https://github.com/rdatatoolbox/practice-1>
 
 
 

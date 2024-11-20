@@ -13,6 +13,8 @@ Description: This project aims to download PanTHERIA and WWF WildFinder
     This is the result of the Practice 1 of the training course Reproducible 
     Research in Computational Ecology available at:
     <https://rdatatoolbox.github.io/chapters/ex-compendium.html>.
+URL: https://github.com/rdatatoolbox/practice-1
+BugReports: https://github.com/rdatatoolbox/practice-1/issues
 License: GPL-2
 Encoding: UTF-8
 Imports:
