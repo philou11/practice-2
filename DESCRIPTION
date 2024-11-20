@@ -10,5 +10,5 @@ Authors@R: c(
            comment = c(ORCID = "0000-0000-0000-0000")))
 Description: A paragraph providing a full description of the project (on 
     several lines...)
-License: {{license}}
+License: GPL-2
 Encoding: UTF-8

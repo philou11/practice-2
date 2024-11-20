@@ -22,6 +22,12 @@ Coming soon...
 Coming soon...
 
 
+## License
+
+This project is released under the 
+[GPL-2 license](https://choosealicense.com/licenses/gpl-2.0/).
+
+
 ## Citation
 
 > Doe J (2024) Minimal structure of a research compendium.
