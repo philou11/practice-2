@@ -1,11 +1,11 @@
-# :mortar_board: Practice 1 - Research Compendium
+# :mortar_board: Practice 2 - Quarto
 
 [![License:
 GPL-2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://choosealicense.com/licenses/gpl-2.0/)
 
 
 > [!IMPORTANT]  
-> This project is the result of the Practice 1 of the training course
+> This project is the result of the Practice 2 of the training course
 > [Reproducible Research in Computational Ecology](https://rdatatoolbox.github.io).
 
 
