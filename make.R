@@ -29,3 +29,9 @@ devtools::load_all()
 ## Download raw data ----
 
 source(here::here("analyses", "download-data.R"))
+
+
+## Make report ----
+
+quarto::quarto_render(input          = here::here("index.qmd"), 
+                      execute_params = list(mammals_family = "Canidae"))
