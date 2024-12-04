@@ -11,7 +11,7 @@ GPL-2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://chooseal
 
 
 This project aims to download the [PanTHERIA](https://doi.org/10.1890/08-1494.1) 
-database (Kate _et al._, 2009) and the 
+database (Jones _et al._, 2009) and the 
 [WWF WildFinder](https://www.worldwildlife.org/pages/wildfinder-database) 
 database (World Wildlife Fund 2006). It is structured as a research compendium 
 to be reproducible.
@@ -94,7 +94,7 @@ This project is released under the
 
 ## References
 
-Kate EJ, Bielby J, Cardillo M _et al._ (2009) PanTHERIA: A 
+Jones KE, Bielby J, Cardillo M _et al._ (2009) PanTHERIA: A 
 species-level database of life history, ecology, and geography of extant and 
 recently extinct mammals. _Ecology_, 90, 2648. 
 DOI: [10.1890/08-1494.1](https://doi.org/10.1890/08-1494.1)
