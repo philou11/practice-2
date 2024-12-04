@@ -44,8 +44,7 @@ This project is structured as follow:
 |  ├─ join_tables.R                           # Function to merge WildFinder tables
 |  ├─ plot_counts.R                           # Function to make the barplot
 |  ├─ read_data.R                             # Function to import WildFinder tables
-|  ├─ select_species.R                        # Function to subset WildFinder species
-|  └─ dl_wildfinder_data.R                    # Function to download WildFinder data
+|  └─ select_species.R                        # Function to subset WildFinder species
 |
 ├─ analyses/                                  # Contains R scripts
 |  └─ download-data.R                         # Script to download raw data
